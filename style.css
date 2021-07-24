@@ -74,8 +74,9 @@
     grid-template-columns: repeat(3,1fr);
     align-items: center;
     grid-column-gap: 50px;
-    margin-left: 300px;
+    margin-left: 255px;
     margin-bottom: 20px;
+
 }
 .column-1{
     background-color: #ffff;
@@ -105,7 +106,7 @@
     width: 995px;
     height: 350px;
     margin-top: 300px;
-    margin-left: 260px;
+    margin-left: 310px;
 }
 .card{
     display: flex;
@@ -120,7 +121,7 @@
 }
 .card-img{
     width: 525px;
-    height: 300px;
+    height: 280px;
 }
 /* Footer  */
 footer{
@@ -128,7 +129,7 @@ footer{
 }
 .foot-button{
     margin-bottom: 20px;
-    margin-left: 1135px;
+    margin-left: 1185px;
 
 }
 #fb{
