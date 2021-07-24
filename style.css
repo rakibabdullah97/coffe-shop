@@ -1,0 +1,141 @@
+.body{ 
+    background-color: #e5e5e5;
+    
+}
+.top-banner{
+    background-color: #fbfbfb;
+    display: flex;
+    width: 1552px;
+    height: 467px;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.banner-text{
+    width: 454px;
+    height: 146px;
+}
+.banner-text h1{
+    font-size: 60px;
+    margin-left:100px;
+    margin-bottom:19px;
+ 
+}
+.banner-text h2{
+    color: #080806 ;
+    margin-left:100px;
+    margin-top:15px;
+    margin-bottom:135px;
+}
+.banner img{
+   width: 470px;
+   height: 323px;
+   margin-bottom: 74px;
+   margin-top: 73px;
+   margin-right: 90px;
+}
+/* box  */
+.box-container{
+    margin-top: 39px;
+    display: flex;
+    justify-content:center;
+    margin-bottom: 250px;
+}
+.boxs{
+    display: flex;
+    align-items: center;
+    width: 966px;
+    height: 243px;
+}
+.box-info h1{
+    font-size: 30px;
+}
+.box-info p {
+    color: #181414;
+}
+.box-info small {
+    color: #0f0d0dce;
+}
+.box-info{
+    padding: 20px;
+}
+.box-pic{
+    width: 433px;
+    height: 243px;
+}
+/* column  */
+.cols{
+    width: 966px;
+    height: 243px;
+    
+}
+.column-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    align-items: center;
+    grid-column-gap: 50px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+}
+.column-1{
+    background-color: #ffff;
+    width: 297px;
+    height: 392px ;
+    box-shadow: 5px 5px 6px grey ;
+    padding:10px;
+}
+.column-1 img{
+    width: 297px;
+    height: 179px;
+}
+.col-info{
+    padding: 10px;
+}
+.col-info p{
+    color: black;
+}
+.col-footer{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+/* foot card  */
+.foot-card{
+    width: 995px;
+    height: 350px;
+    margin-top: 300px;
+    margin-left: 260px;
+}
+.card{
+    display: flex;
+    
+}
+.card-text{
+    padding: 50px;
+}
+.card-yext h1{
+    font-size: 60px;
+
+}
+.card-img{
+    width: 525px;
+    height: 300px;
+}
+/* Footer  */
+footer{
+    text-align: center;
+}
+.foot-button{
+    margin-bottom: 20px;
+    margin-left: 1135px;
+
+}
+#fb{
+    background-color: #6B46C1;
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    width: 122px;
+    height: 37px;
+}
